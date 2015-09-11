@@ -1,3 +1,6 @@
 # system.prop for titan
 ro.product.model=titan
 ro.product.device=titan
+
+# audio
+ro.audio.monitorRotation=1
